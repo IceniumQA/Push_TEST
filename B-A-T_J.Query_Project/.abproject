@@ -30,5 +30,13 @@
     "Landscape"
   ],
   "iOSStatusBarStyle": "Default",
-  "AndroidHardwareAcceleration": "false"
+  "AndroidHardwareAcceleration": "false",
+  "DisplayName": "B-A-T_J.Query_Project",
+  "Framework": "Cordova",
+  "projectVersion": "1",
+  "BundleVersion": "1.0.0",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.BATJQueryProject",
+  "WP8PublisherID": "{5d3be551-6821-48f3-b0bd-e1b7fcdb1429}",
+  "WP8ProductID": "{fb055aab-c49d-4ecf-ade5-df4634205b1d}"
 }
